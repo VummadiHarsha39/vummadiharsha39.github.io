@@ -8,9 +8,9 @@ redirect_from:
 
 Hi, I'm Harsha Vardhan Reddy Vummadi, a Data Science graduate student from Stony Brook University, with expertise in Fullstack Development, Statistics, and Machine Learning. I develop intelligent solutions that drive practical value and help people in tangible ways.
  Check out my projects 
-[here](https://vummadiharsha39.github.io/portfolio/).
+[here]().
 
-Please feel free to read more [about me](https://vummadiharsha39.github.io/my-story/), or you can check out my resume or [contact me](https://vummadiharsha39.github.io/gallery/).
+Please feel free to read more [about me](), or you can check out my resume or [contact me]().
 
 
 
