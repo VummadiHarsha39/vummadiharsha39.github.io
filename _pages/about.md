@@ -10,7 +10,7 @@ Hi, I'm Harsha Vardhan Reddy Vummadi, a Data Science graduate student from Stony
  Check out my projects 
 [here]().
 
-Please feel free to read more [about me](), or you can check out my resume or [contact me]().
+Please feel free to read more [about me](https://vummadiharsha39.github.io/my-story/), or you can check out [my resume](https://vummadiharsha39.github.io/cv) or [contact me](https://vummadiharsha39.github.io/gallery/).
 
 
 
