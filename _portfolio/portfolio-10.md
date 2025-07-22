@@ -66,7 +66,7 @@ In essence, these insights paint a picture of SCT’s potential role in promotin
 
 Our analysis ultimately confirmed that Suffolk County Transit effectively provides service coverage within Suffolk, the region’s largest easternmost county—a finding both curiously insightful and thankfully reassuring. 
 
-If you want know about this project in great please follow up on this medium link
+If you want know about this project in great detail, please follow up on this medium link
 "https://medium.com/@vummadiharsha123/summer-project-1-analyzing-suffolk-county-transit-with-qgis-python-9482692bbb80"
 
 

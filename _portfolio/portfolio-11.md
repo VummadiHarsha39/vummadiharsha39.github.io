@@ -40,15 +40,12 @@ Our first deep learning model, built using Hugging Face Transformers, is designe
 The model is based on a Transformer architecture, specifically a BERT-base-uncased model. BERT, renowned for its ability to understand context in text, was fine-tuned on our specialized emotion classification task, adapting its vast pre-trained knowledge to this specific domain.
 
 ### The Deception Detector: Our Unique Edge
-This line graph visualizes the fluctuations in total bus ridership on a monthly basis from January 2013 to December 2016. We can observe seasonal patterns, typically with higher ridership in certain months of the year, and an overall trend in ridership over the four-year period.
 This is where our project truly stands out. I developed a second, custom deep learning model—the Deception Detector. Unlike traditional text-only approaches, this model takes both the raw review text and the emotional probabilities (the output from our Emotion Classifier for a given text) to classify a review as either real or fake. This multi-modal feature fusion is the core innovation for counterfeit detection.
 
 This custom PyTorch model extends a standard Transformer by incorporating a unique fusion layer. It uses a BERT-base-uncased model as its base text encoder but then intelligently integrates the emotional probabilities.
 
 For training this crucial model, we used a mixed dataset:
-
 Real Reviews: Primarily sourced from the GoEmotions dataset.
-
 Synthetic Fake Reviews: For initial pipeline validation, a portion of real reviews were intentionally mislabeled as fake. (It's important to note that for real-world deployment, this would ideally be replaced with genuinely deceptive datasets or more sophisticated synthetic data generation methods).
 
 ### The Explanation Generator: Unveiling Insights
@@ -70,7 +67,6 @@ Dominant Emotion & Emotional Diversity: It first identifies the single emotion w
 For efficient experiment management and reproducibility, we integrated MLflow for local tracking. We trained both our Emotion Classifier and Deception Detector models, logging their metrics, parameters, and saving model artifacts to the mlruns directory. We also promoted our best-performing models to the production stage within MLflow, ensuring proper versioning and deployment readiness.
 
 
-
 ## Phase 4: Local Server Integration (FastAPI Backend)
 To bring our models to life as a usable service, I orchestrated the backend with FastAPI.
 
@@ -82,7 +78,7 @@ Why FastAPI? FastAPI provides a high-performance web API that can serve predicti
 
 ![Backend System Diagram](/images/Backend.png)
 
-I also built the a frontend Interactive web interface using Next.js and React
+I also built the a frontend Interactive web interface using Next.js and React.
 
 ![Emotion Interface Screenshot](/images/Emo_interface.png)
 
