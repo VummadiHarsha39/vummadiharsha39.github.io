@@ -51,7 +51,7 @@ Please if you are in same strech, feeling Please to [Contact](https://vummadihar
 
 ## FUN FACTS
 
-- As an Hardcore Telugu cinephile, I declare myself to be a die-hard Vijay Devarakonda and Brad Pitt.
+- As an Hardcore Telugu cinephile, I declare myself to be a die-hard Vijay Devarakonda and Brad Pitt Fan.
 - I was inspired to be successful and be a "statistical analysis and data reconfiguration" mastered professional by my spirit animal, Chandler Bing from Friends (Kidding!).
 
    ![Full Mesh](/images/Chandler.gif)
